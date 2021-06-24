@@ -9,7 +9,7 @@ module.exports = {
   // basic site info (required)
   name: 'Turki Almansoori - IB',
   domain: 'ib.amturki.tk',
-  author: 'Elias Benbourenane',
+  author: 'Turki Almansoori',
 
   // open graph metadata (optional)
   description: 'turkialmansoori',
