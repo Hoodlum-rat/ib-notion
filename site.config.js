@@ -1,24 +1,24 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '22208159dc52443da19ca7db2ebac687',
+  rootNotionPageId: 'df0bb793aa164639ac65cd34b2288aed',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: '06ac5e34-75cb-44bf-9855-feeb39231f7e',
+  rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'eliasbenb',
-  domain: 'ib.eliasbenb.cf',
+  name: 'Turki Almansoori - IB',
+  domain: 'ib.amturki.tk',
   author: 'Elias Benbourenane',
 
   // open graph metadata (optional)
-  description: 'eliasbenb',
-  socialImageTitle: 'eliasbenb',
-  socialImageSubtitle: 'eliasbenb',
+  description: 'turkialmansoori',
+  socialImageTitle: 'turkialmansoori',
+  socialImageSubtitle: 'turkialmansoori',
 
   // social usernames (optional)
   twitter: null,
-  github: 'eliasbenb',
+  github: null,
   linkedin: null,
 
   // default notion icon and cover images for site-wide consistency (optional)
